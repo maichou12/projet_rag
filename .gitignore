@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Données locales / générées
+chroma_db/
+data/conversations/
+n8n-install.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

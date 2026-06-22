@@ -1,0 +1,10 @@
+pdfplumber
+sentence-transformers
+chromadb
+tqdm
+nodeenv
+python-dotenv
+groq
+fastapi
+uvicorn
+python-multipart

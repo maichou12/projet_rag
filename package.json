@@ -1,0 +1,8 @@
+{
+  "name": "projet-rag",
+  "private": true,
+  "scripts": {
+    "n8n": "npx --yes n8n start",
+    "dev": "npm run dev --prefix frontend"
+  }
+}

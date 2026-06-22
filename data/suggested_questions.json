@@ -1,0 +1,50 @@
+[
+  {
+    "id": "mariage",
+    "label": "Conditions du mariage",
+    "icon": "💍",
+    "question": "Quelles sont les conditions du mariage au Sénégal selon le Code de la Famille ?"
+  },
+  {
+    "id": "autorite",
+    "label": "Autorité parentale",
+    "icon": "👨‍👩‍👧",
+    "question": "Qu'est-ce que l'autorité parentale et quels sont les droits et devoirs des parents ?"
+  },
+  {
+    "id": "succession",
+    "label": "Successions et héritage",
+    "icon": "📜",
+    "question": "Comment sont régies les successions et le partage de l'héritage au Sénégal ?"
+  },
+  {
+    "id": "aliments",
+    "label": "Obligations alimentaires",
+    "icon": "🤝",
+    "question": "Quelles sont les obligations alimentaires entre époux, parents et enfants ?"
+  },
+  {
+    "id": "divorce",
+    "label": "Divorce et séparation",
+    "icon": "⚖️",
+    "question": "Quelles sont les causes et procédures de divorce prévues par le Code de la Famille ?"
+  },
+  {
+    "id": "filiation",
+    "label": "Filiation et adoption",
+    "icon": "👶",
+    "question": "Comment la filiation et l'adoption sont-elles définies et établies ?"
+  },
+  {
+    "id": "regime",
+    "label": "Régime matrimonial",
+    "icon": "🏠",
+    "question": "Quels sont les différents régimes matrimoniaux au Sénégal ?"
+  },
+  {
+    "id": "tutelle",
+    "label": "Tutelle et curatelle",
+    "icon": "🛡️",
+    "question": "Qu'est-ce que la tutelle et la curatelle des mineurs et des majeurs protégés ?"
+  }
+]
